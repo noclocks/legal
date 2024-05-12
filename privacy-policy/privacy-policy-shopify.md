@@ -1,4 +1,4 @@
-# PRIVACY POLICY
+<h1 align="center">PRIVACY POLICY</h1>
 
 <p align="center">
   <img src="https://github.com/noclocks/legal/assets/32652297/9e446d5f-36da-423c-ac09-41b8be8980db" height="30%" width="30%" />
