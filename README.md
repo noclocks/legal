@@ -10,7 +10,7 @@
 <br>
 
 <!-- BEGIN:TITLE -->
-# No Clocks - Legal <img src="https://github.com/noclocks/brand/blob/main/src/logo/badge/png/noclocks-badge-circle-dark-transparent-500x500.png" align="right" height="120px" width="120px">
+# No Clocks - Legal
 <!-- END:TITLE -->
 
 <br>
@@ -49,29 +49,31 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [Usage](#usage)
 - [Resources](#resources)
 <!-- END:TOC -->
 
 <!-- BEGIN:OVERVIEW -->
 ## Overview
 
-`#TODO`
+```plaintext
+<root>
+|-- privacy-policy/
+|-- terms/
+|-- etc.
+```
 
 <!-- END:OVERVIEW -->
 
 <!-- BEGIN:FEATURES -->
 ## Features
 
-`#TODO`
+- [Privacy Policy](./privacy-policy/privacy-policy-shopify.md)
+- [Terms of Service](./terms/terms-of-service.md)
+- etc.
 
 <!-- END:FEATURES -->
 
 <!-- BEGIN:USAGE -->
-
-## Usage
-
-`#TODO`
 
 <!-- END:USAGE -->
 
@@ -79,15 +81,20 @@
 
 ## Resources
 
-- [Documentation][URL_DOCS]
-- [PowerShell Gallery][URL_PSGALLERY]
-- [GitHub Repository][URL_GITHUB]
-- [Issues][URL_ISSUES]
-- [Releases][URL_RELEASES]
+- [Documentation]()
+- [Repository]()
+- [Issues]()
+- [Project]()
 
 <!-- END:RESOURCES -->
 
 <!-- BEGIN:FOOTER -->
+***
+
+<p align="center">
+  <img src="https://github.com/noclocks/brand/blob/main/src/logo/badge/png/noclocks-badge-circle-dark-transparent-500x500.png" height="120px" width="120px">
+</p>
+
 ***
 (c) [No Clocks, LLC](https://github.com/noclocks) All Rights Reserved | 2024
 ***
