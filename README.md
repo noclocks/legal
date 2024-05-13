@@ -7,11 +7,13 @@
 </p>
 <!-- END:LOGO -->
 
-<br>
-
 <!-- BEGIN:TITLE -->
 # No Clocks - Legal
 <!-- END:TITLE -->
+
+<!-- BEGIN:BADGES -->
+[![pages-build-deployment](https://github.com/noclocks/legal/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/noclocks/legal/actions/workflows/pages/pages-build-deployment)
+<!-- END:BADGES -->
 
 <br>
 
@@ -39,10 +41,6 @@
 > The repository is meant for internal use at [No Clocks, LLC](https://github.com/noclocks) and its team members only.
 > </p></details>
 <!--END:WARNING_CALLOUT -->
-
-<!-- BEGIN:BADGES -->
-
-<!-- END:BADGES -->
 
 <!-- BEGIN:TOC -->
 ## Contents
