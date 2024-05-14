@@ -20,7 +20,7 @@
 <!-- BEGIN::NOTE_CALLOUT -->
 > [!NOTE]
 > <details><summary>Expand to view an overview of this repository.</summary><p>
-> This repository houses various legal related items, assets, documents, and practices used by the team at [No Clocks, LLC](https://github.com/noclocks).
+> This repository houses various legal related items, assets, documents, and practices used by the team at <a href='https://github.com/noclocks'>No Clocks, LLC</a>.
 >
 > For any further inquiries or details reach out to [legal@noclocks.dev](mailto:legal@noclocks.dev).
 > </p></details>
@@ -38,7 +38,7 @@
 <!-- BEGIN::WARNING_CALLOUT -->
 > [!WARNING]
 > <details><summary>Expand to view warnings associated with this repository.</summary><p>
-> The repository is meant for internal use at [No Clocks, LLC](https://github.com/noclocks) and its team members only.
+> The repository is meant for internal use at <a href='https://github.com/noclocks'>No Clocks, LLC</a> and its team members only.
 > </p></details>
 <!--END:WARNING_CALLOUT -->
 
