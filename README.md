@@ -3,7 +3,7 @@
 
 <!-- BEGIN:LOGO -->
 <p align="center">
-  <img src="https://github.com/noclocks/brand/blob/main/src/logo/variants/legal/noclocks-logo-wordmark-legal.png" width="50%" alt="No Clocks, LLC Legal" >
+  <img src="./assets/noclocks-logo-wordmark-legal.png" width="50%" alt="No Clocks, LLC Legal" >
 </p>
 <!-- END:LOGO -->
 
