@@ -1,8 +1,6 @@
 <h1 align="center">PRIVACY POLICY</h1>
 
-<p align="center">
-  <img src="./../assets/NoClocks.png" height="30%" width="30%" />
-</p>
+<p align="center"><img src="https://github.com/noclocks/legal/assets/32652297/b60cc18c-688d-4686-8184-d50025d66bd7" /></p>
 
 <hr>
 
