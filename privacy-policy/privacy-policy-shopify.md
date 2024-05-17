@@ -1,7 +1,7 @@
 <h1 align="center">PRIVACY POLICY</h1>
 
 <p align="center">
-  <img src="https://github.com/noclocks/legal/assets/32652297/9e446d5f-36da-423c-ac09-41b8be8980db" height="30%" width="30%" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/32652297/329874677-9e446d5f-36da-423c-ac09-41b8be8980db.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240517T170703Z&X-Amz-Expires=300&X-Amz-Signature=b2491e4702a69094da9f465ca100bacf37a5a3e2b25253209de2fbfba9354d25&X-Amz-SignedHeaders=host&actor_id=32652297&key_id=0&repo_id=799651475" height="30%" width="30%" />
 </p>
 
 <hr>
