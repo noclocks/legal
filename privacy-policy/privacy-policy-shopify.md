@@ -1,7 +1,7 @@
 <h1 align="center">PRIVACY POLICY</h1>
 
 <p align="center">
-  <img src="../assets/NoClocks.png" height="30%" width="30%" />
+  <img src="./../assets/NoClocks.png" height="30%" width="30%" />
 </p>
 
 <hr>
