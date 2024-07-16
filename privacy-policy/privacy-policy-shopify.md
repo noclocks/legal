@@ -5,8 +5,8 @@
 <hr>
 
 <p align="center">
-  <a href="store.noclocks.dev">No Clocks Store</a> |
-  <a href="mailto:legal@noclocks.dev"> legal@noclocks.dev</a>
+  <a target="_blank" href="https://store.noclocks.dev">No Clocks Store</a> |
+  <a href="mailto:legal@noclocks.dev">legal@noclocks.dev</a>
   <br><br>
   <strong>Last Updated:</strong> May 12, 2024
 </p>
@@ -171,7 +171,7 @@ Should you have any questions about our privacy practices or this Privacy Policy
 
 <hr>
 
-© [No Clocks, LLC | 2024](https://noclocks.dev)
+© [No Clocks, LLC | 2024](https://website.noclocks.dev)
 
 <hr>
 
