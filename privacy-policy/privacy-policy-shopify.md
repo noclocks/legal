@@ -171,7 +171,7 @@ Should you have any questions about our privacy practices or this Privacy Policy
 
 <hr>
 
-© [No Clocks, LLC | 2024](https://website.noclocks.dev)
+© [No Clocks, LLC | 2024](https://noclocks.dev)
 
 <hr>
 
